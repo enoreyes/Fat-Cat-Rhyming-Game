@@ -5,7 +5,11 @@
 [![License][license-image]][license-url]
 [![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](http://cocoapods.org/pods/LFAlertController)
 
-This was my first project in my journey into iOS development. The code is an absolute mess to be completely honest but everything works as expected and it looks pretty good in the scheme of things.
+This was my first project in my journey into iOS development. The code is a little messy to be completely honest but everything works as expected and it looks pretty good in the scheme of things.
+
+![Fat Cat Sreenshot 1](/Screenshots/392x696bb.jpg?raw=true "Fat Cat Sreenshot 1") ![Fat Cat Sreenshot 2](/Screenshots/392x696bb-1.jpg?raw=true "Fat Cat Sreenshot 2") ![Fat Cat Sreenshot 3](/Screenshots/392x696bb-2.jpg?raw=true "Fat Cat Sreenshot 3") ![Fat Cat Sreenshot 4](/Screenshots/392x696bb-3.jpg?raw=true "Fat Cat Sreenshot 4")
+
+
 
 ## Features
 
@@ -21,7 +25,7 @@ This was my first project in my journey into iOS development. The code is an abs
 
 ## Meta
 
-Eno Reyes – [@enoreyes](https://instagram.com) – enoreyes@gmail.com
+Eno Reyes – [@enoreyes](https://enoreyes.com) – enoreyes@gmail.com
 
 [https://github.com/enoreyes](https://github.com/enoreyes/)
 
