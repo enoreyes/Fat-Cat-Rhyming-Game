@@ -5,7 +5,7 @@
 [![License][license-image]][license-url]
 [![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](http://cocoapods.org/pods/LFAlertController)
 
-This was my first project in my journey into iOS development. The code is a little messy to be completely honest but everything works as expected and it looks pretty good in the scheme of things.
+This was my first project in my journey into iOS development. The code is a little messy to be completely honest but everything works as expected and it looks pretty good in the scheme of things. Download it [here](https://itunes.apple.com/us/app/fat-cat-rhyming-game/id1039647698?mt=8)
 
 ![Fat Cat Sreenshot 1](/Screenshots/392x696bb.jpg?raw=true "Fat Cat Sreenshot 1") ![Fat Cat Sreenshot 2](/Screenshots/392x696bb-1.jpg?raw=true "Fat Cat Sreenshot 2") ![Fat Cat Sreenshot 3](/Screenshots/392x696bb-2.jpg?raw=true "Fat Cat Sreenshot 3") ![Fat Cat Sreenshot 4](/Screenshots/392x696bb-3.jpg?raw=true "Fat Cat Sreenshot 4")
 
