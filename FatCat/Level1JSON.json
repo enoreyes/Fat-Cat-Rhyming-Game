@@ -1,0 +1,24 @@
+ [
+  
+  {"question":"Large Feline", "answer":"Fat Cat", "hint":"Fat", "level": 1, "item":1, "completed": false, "id":0},
+  {"question":"Angry Father", "answer":"Mad Dad", "hint":"Mad", "level": 1, "item":2, "completed": false, "id":1},
+  {"question":"Rodent Headgear", "answer":"Rat Hat", "hint":"Rat", "level": 1, "item":3, "completed": false, "id":2},
+  {"question":"Sneaker Adhesive", "answer":"Shoe Glue", "hint":"Shoe", "level": 1, "item":4, "completed": false, "id":3},
+  {"question":"Pork Hairdo", "answer":"Pig Wig", "hint":"Pig", "level": 1, "item":5, "completed": false, "id":4},
+  {"question":"Literary Thief", "answer":"Book Crook", "hint":"Book", "level": 1, "item":6, "completed": false, "id":5},
+  {"question":"Tiny Sphere", "answer":"Small Ball", "hint":"Small", "level": 1, "item":7, "completed": false, "id":6},
+  {"question":"50% Giggle", "answer":"Half Laugh", "hint":"Half", "level": 1, "item":8, "completed": false, "id":7},
+  {"question":"High Barrier", "answer":"Tall Wall", "hint":"Tall", "level": 1, "item":9, "completed": false, "id":8},
+  {"question":"Courageous Hair Removal", "answer":"Brave Shave", "hint":"Brave", "level": 1, "item":10, "completed": false, "id":9},
+  {"question":"Spicy Place", "answer":"Hot Spot", "hint":"Hot", "level": 1, "item":11, "completed": false, "id":10},
+  {"question":"Noisy Group", "answer":"Loud Crowd", "hint":"Loud", "level": 1, "item":12, "completed": false, "id":11},
+  {"question":"Steak Stealer", "answer":"Beef Thief", "hint":"Beef", "level": 1, "item":13, "completed": false, "id":12},
+  {"question":"Strange Facial Hair", "answer":"Weird Beard", "hint":"Weird", "level": 1, "item":14, "completed": false, "id":13},
+  {"question":"Unreal Pond", "answer":"Fake Lake", "hint":"Fake", "level": 1, "item":15, "completed": false, "id":14},
+  {"question":"Gloomy 24 Hours", "answer":"Grey Day", "hint":"Grey", "level": 1, "item":16, "completed": false, "id":15},
+  {"question":"Frog Cipher", "answer":"Toad Code", "hint":"Toad", "level": 1, "item":17, "completed": false, "id":16},
+  {"question":"Final Explosion", "answer":"Last Blast", "hint":"Last", "level": 1, "item":18, "completed": false, "id":17},
+  {"question":"Liberated Oak", "answer":"Free Tree", "hint":"Free", "level": 1, "item":19, "completed": false, "id":18},
+  {"question":"Washed Legume", "answer":"Clean Bean", "hint":"Clean", "level": 1, "item":20, "completed": false, "id":19}
+  
+  ]

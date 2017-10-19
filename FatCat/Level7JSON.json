@@ -1,0 +1,22 @@
+ [
+  {"question":"Two Drums Talking", "answer":"Percussion Discussion", "hint":"Percussion", "level": 7, "item":1, "completed": false, "id":195},
+  {"question":"National Leader's Home", "answer":"Presidents Residence", "hint":"Presidents", "level": 7, "item":2, "completed": false, "id":196},
+  {"question":"History of Spectacles", "answer":"Monocle Chronicle", "hint":"Monocle", "level": 7, "item":3, "completed": false, "id":197},
+  {"question":"Ships Crewed by Apes", "answer":"Gorilla Flotilla", "hint":"Gorilla", "level": 7, "item":4, "completed": false, "id":198},
+  {"question":"Recall After November", "answer":"Remember December", "hint":"Remember", "level": 7, "item":5, "completed": false, "id":199},
+  {"question":"Luck Game Involving Clay", "answer":"Lottery Pottery", "hint":"Lottery", "level": 7, "item":6, "completed": false, "id":200},
+  {"question":"Doctor Doing Tricks", "answer":"Physician Magician", "hint":"Physician", "level": 7, "item":7, "completed": false, "id":201},
+  {"question":"Non-viscous Nectar", "answer":"Runny Honey", "hint":"Runny", "level": 7, "item":8, "completed": false, "id":202},
+  {"question":"Frozen Ten-Speed", "answer":"Icicle Bicycle", "hint":"Icicle", "level": 7, "item":9, "completed": false, "id":203},
+  {"question":"Laptop Traveller", "answer":"Computer Commuter", "hint":"Computer", "level": 7, "item":10, "completed": false, "id":204},
+  {"question":"Contagious Love", "answer":"Affection Infection", "hint":"Affection", "level": 7, "item":11, "completed": false, "id":205},
+  {"question":"Sporty Makeup", "answer":"Athletic Cosmetic", "hint":"Athletic", "level": 7, "item":12, "completed": false, "id":206},
+  {"question":"Car Part Mechanic", "answer":"Transmission Technician", "hint":"Transmission", "level": 7, "item":13, "completed": false, "id":207},
+  {"question":"Cuban Yellow Fruit", "answer":"Havana Banana", "hint":"Banana", "level": 7, "item":14, "completed": false, "id":208},
+  {"question":"Roman Horse", "answer":"Italian Stallion", "hint":"Italian", "level": 7, "item":15, "completed": false, "id":209},
+  {"question":"Purple Agenda", "answer":"Lavender Calendar", "hint":"Lavender", "level": 7, "item":16, "completed": false, "id":210},
+  {"question":"Spotted Dog Benefaction", "answer":"Dalmatian Donation", "hint":"Dalmatian", "level": 7, "item":17, "completed": false, "id":211},
+  {"question":"Decepticon Entertainer", "answer":"Transformer Performer", "hint":"Transformer", "level": 7, "item":18, "completed": false, "id":212},
+  {"question":"Non-Electronic Jewish Assembly", "answer":"Analog Synagogue", "hint":"Analog", "level": 7, "item":19, "completed": false, "id":213},
+  {"question":"Anywhere Always", "answer":"Wherever Forever", "hint":"Wherever", "level": 7, "item":20, "completed": false, "id":214}
+  ]

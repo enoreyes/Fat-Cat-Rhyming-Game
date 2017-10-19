@@ -1,0 +1,23 @@
+[
+ {"question":"Single Rock", "answer":"Lone Stone", "hint":"Lone", "level": 3, "item":1, "completed": false, "id":41},
+ {"question":"Tardy Appointment", "answer":"Late Date", "hint":"Late", "level": 3, "item":2, "completed": false, "id":42},
+ {"question":"Large Excavation", "answer":"Big Dig", "hint":"Big", "level": 3, "item":3, "completed": false, "id":43},
+ {"question":"Fast Choice", "answer":"Quick Pick", "hint":"Quick", "level": 3, "item":4, "completed": false, "id":44},
+ {"question":"Sun Kissed Male", "answer":"Tan Man", "hint":"Tan", "level": 3, "item":5, "completed": false, "id":45},
+ {"question":"Moby's Prison", "answer":"Whale Jail", "hint":"Whale", "level": 3, "item":6, "completed": false, "id":46},
+ {"question":"Tight Carpet", "answer":"Snug Rug", "hint":"Snug", "level": 3, "item":7, "completed": false, "id":47},
+ {"question":"Amusing Bread", "answer":"Fun Bun", "hint":"Fun", "level": 3, "item":8, "completed": false, "id":48},
+ {"question":"Sugary Paws", "answer":"Sweet Feet", "hint":"Sweet", "level": 3, "item":9, "completed": false, "id":49},
+ {"question":"Chief of Police", "answer":"Top Cop", "hint":"Top", "level": 3, "item":10, "completed": false, "id":50},
+ {"question":"Oversized Fake Hair", "answer":"Big Wig", "hint":"Big", "level": 3, "item":11, "completed": false, "id":51},
+ {"question":"Naughty Boy", "answer":"Bad Lad", "hint":"Bad", "level": 3, "item":12, "completed": false, "id":52},
+ {"question":"Pale Horseman", "answer":"White Knight", "hint":"White", "level": 3, "item":13, "completed": false, "id":53},
+ {"question":"Attractive Salamander", "answer":"Cute Newt", "hint":"Bored", "level": 3, "item":14, "completed": false, "id":54},
+ {"question":"Bloody Tale", "answer":"Gory Story", "hint":"Gory", "level": 3, "item":15, "completed": false, "id":55},
+ {"question":"Seafood Platter", "answer":"Fish Dish", "hint":"Fish", "level": 3, "item":16, "completed": false, "id":56},
+ {"question":"Angry Employer", "answer":"Cross Boss", "hint":"Cross", "level": 3, "item":17, "completed": false, "id":57},
+ {"question":"Dull Pumpkin", "answer":"Bored Gourd", "hint":"Bored", "level": 3, "item":18, "completed": false, "id":58},
+ {"question":"Pastry Deception", "answer":"Pie Lie", "hint":"Pie", "level": 3, "item":19, "completed": false, "id":59},
+ {"question":"Icy Expense", "answer":"Frost Cost", "hint":"Frost", "level": 3, "item":20, "completed": false, "id":40}
+
+]

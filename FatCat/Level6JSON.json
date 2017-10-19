@@ -1,0 +1,22 @@
+[
+  {"question":"Upbeat Fowl", "answer":"Perky Turkey", "hint":"Perky", "level": 6, "item":1, "completed": false, "id":114},
+ {"question":"Disliker of Potatoes", "answer":"Tater Hater", "hint":"Tater", "level": 6, "item":2, "completed": false, "id":115},
+ {"question":"Superior Knitted Wrap", "answer":"Better Sweater", "hint":"Better", "level": 6, "item":3, "completed": false, "id":116},
+ {"question":"Scary Thunder", "answer":"Frightening Lightning", "hint":"Frightening", "level": 6, "item":4, "completed": false, "id":117},
+ {"question":"Young Cat in Love", "answer":"Smitten Kitten", "hint":"Smitten", "level": 6, "item":5, "completed": false, "id":179},
+ {"question":"Active Snake", "answer":"Hyper Viper", "hint":"Hyper", "level": 6, "item":6, "completed": false, "id":180},
+ {"question":"Magical Milk Woman", "answer":"Dairy Fairy", "hint":"Dairy", "level": 6, "item":7, "completed": false, "id":181},
+ {"question":"Sea Cream", "answer":"Ocean Lotion", "hint":"Ocean", "level": 6, "item":8, "completed": false, "id":182},
+ {"question":"Humorous Cash", "answer":"Funny Money", "hint":"Funny", "level": 6, "item":9, "completed": false, "id":183},
+ {"question":"Magical Grasshopper Saying", "answer":"Hocus Locust", "hint":"Hocus", "level": 6, "item":10, "completed": false, "id":184},
+ {"question":"Meaner Gem Enthusiast", "answer":"Crueler Jeweler", "hint":"Crueler", "level": 6, "item":11, "completed": false, "id":185},
+ {"question":"Complimenting Power Source", "answer":"Battery Flattery", "hint":"Battery", "level": 6, "item":12, "completed": false, "id":186},
+ {"question":"Virile Tortoise", "answer":"Fertile Turtle", "hint":"Fertile", "level": 6, "item":13, "completed": false, "id":187},
+ {"question":"Crustacean Criminal", "answer":"Lobster Mobster", "hint":"Lobster", "level": 6, "item":14, "completed": false, "id":188},
+ {"question":"Stolen Pig Meat", "answer":"Taken Bacon", "hint":"Taken", "level": 6, "item":15, "completed": false, "id":189},
+ {"question":"Woods Gardener", "answer":"Forest Florist", "hint":"Forest", "level": 6, "item":16, "completed": false, "id":190},
+ {"question":"Taut Writing Utensil", "answer":"Tensile Pencil", "hint":"Tensile", "level": 6, "item":17, "completed": false, "id":191},
+ {"question":"Rancher Protection", "answer":"Farmer Armor", "hint":"Farmer", "level": 6, "item":18, "completed": false, "id":192},
+ {"question":"Leafy Musical Narrative", "answer":"Salad Ballad", "hint":"Salad", "level": 6, "item":19, "completed": false, "id":193},
+ {"question":"Middle Eastern Sour Fruit", "answer":"Yemen Lemon", "hint":"Yemen", "level": 6, "item":20, "completed": false, "id":194}
+ ]

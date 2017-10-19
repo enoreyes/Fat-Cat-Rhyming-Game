@@ -1,0 +1,24 @@
+[
+ 
+ {"question":"Uncommon Talent", "answer":"Rare Flair", "hint":"Rare", "level": 5, "item":1, "completed": false, "id":81},
+ {"question":"Broad Slope", "answer":"Wide Slide", "hint":"Wide", "level": 5, "item":2, "completed": false, "id":82},
+ {"question":"Smell from France", "answer":"French Stench", "hint":"French", "level": 5, "item":3, "completed": false, "id":83},
+ {"question":"Unmoving Feathery", "answer":"Still Quill", "hint":"Still", "level": 5, "item":4, "completed": false, "id":84},
+ {"question":"Specific Drapery", "answer":"Certain Curtain", "hint":"Certain", "level": 5, "item":5, "completed": false, "id":85},
+ {"question":"Genuine Enthusiasm", "answer":"Real Zeal", "hint":"Real", "level": 5, "item":6, "completed": false, "id":86},
+ {"question":"Evil Preacher", "answer":"Sinister Minister", "hint":"Sinister", "level": 5, "item":7, "completed": false, "id":87},
+ {"question":"Looney Flower", "answer":"Crazy Daisy", "hint":"Crazy", "level": 5, "item":8, "completed": false, "id":88},
+ {"question":"Promise to Be Bigger", "answer":"Growth Oath", "hint":"Growth", "level": 5, "item":9, "completed": false, "id":89},
+ {"question":"Top of the Boat", "answer":"Ship Tip", "hint":"Ship", "level": 5, "item":10, "completed": false, "id":90},
+ {"question":"Hilarious Rabbit", "answer":"Funny Bunny", "hint":"Funny", "level": 5, "item":11, "completed": false, "id":105},
+ {"question":"Groovy Primate", "answer":"Funky Monkey", "hint":"Funky", "level": 5, "item":12, "completed": false, "id":106},
+ {"question":"Fake Horse", "answer":"Phony Pony", "hint":"Phony", "level": 5, "item":13, "completed": false, "id":107},
+ {"question":"Amethyst Firearm", "answer":"Crystal Pistol", "hint":"Crystal", "level": 5, "item":14, "completed": false, "id":108},
+ {"question":"Mountaineering Nord", "answer":"Hiking Viking", "hint":"Hiking", "level": 5, "item":15, "completed": false, "id":109},
+ {"question":"Dehydrated Clam Soup", "answer":"Chowder Powder", "hint":"Chowder", "level": 5, "item":16, "completed": false, "id":110},
+ {"question":"Violin in Center", "answer":"Middle Fiddle", "hint":"Middle", "level": 5, "item":17, "completed": false, "id":111},
+ {"question":"Tough Town", "answer":"Gritty City", "hint":"Gritty", "level": 5, "item":18, "completed": false, "id":112},
+ {"question":"Sibling's Skin Blemish", "answer":"Sister Blister", "hint":"Sister", "level": 5, "item":19, "completed": false, "id":113},
+ {"question":"Sodium Safe", "answer":"Salt Vault", "hint":"Salt", "level": 5, "item":20, "completed": false, "id":80}
+ 
+ ]

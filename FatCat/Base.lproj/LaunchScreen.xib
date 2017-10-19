@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10116" systemVersion="15E65" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="480" height="480"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="fatcat-logo" translatesAutoresizingMaskIntoConstraints="NO" id="NOp-Ma-rDp">
+                    <rect key="frame" x="128" y="112" width="225" height="255"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="225" id="LZd-LO-d1O"/>
+                        <constraint firstAttribute="height" constant="255" id="evK-ks-ByI"/>
+                    </constraints>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" red="0.90196078431372551" green="0.92549019607843142" blue="0.8784313725490196" alpha="1" colorSpace="calibratedRGB"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="NOp-Ma-rDp" secondAttribute="trailing" constant="50" id="6sZ-ds-HTI"/>
+                <constraint firstItem="NOp-Ma-rDp" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="112" id="CFx-x1-xKJ"/>
+                <constraint firstAttribute="centerY" secondItem="NOp-Ma-rDp" secondAttribute="centerY" id="QrX-CV-7Wl"/>
+                <constraint firstAttribute="trailing" secondItem="NOp-Ma-rDp" secondAttribute="trailing" constant="127" id="RVm-fN-FGs"/>
+                <constraint firstItem="NOp-Ma-rDp" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="128" id="rzY-OZ-KYa"/>
+                <constraint firstItem="NOp-Ma-rDp" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="50" id="wlr-7j-7Jg"/>
+                <constraint firstAttribute="centerX" secondItem="NOp-Ma-rDp" secondAttribute="centerX" id="zHz-Fc-LXs"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <variation key="default">
+                <mask key="constraints">
+                    <exclude reference="6sZ-ds-HTI"/>
+                    <exclude reference="CFx-x1-xKJ"/>
+                    <exclude reference="RVm-fN-FGs"/>
+                    <exclude reference="rzY-OZ-KYa"/>
+                    <exclude reference="wlr-7j-7Jg"/>
+                </mask>
+            </variation>
+            <point key="canvasLocation" x="548" y="455"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="fatcat-logo" width="235" height="242"/>
+    </resources>
+</document>
